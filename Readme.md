@@ -1,0 +1,1 @@
+See https://blog.packagist.com/preventing-dependency-hijacking/
